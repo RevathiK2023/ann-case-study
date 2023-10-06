@@ -1,0 +1,11 @@
+package com.ann.rest.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.ann.rest.dto.Apperals;
+
+@Repository
+public interface ApperalsJpaRepository extends JpaRepository<Apperals, Long> {
+
+}
