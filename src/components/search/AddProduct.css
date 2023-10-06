@@ -1,0 +1,13 @@
+.add-container {
+    margin: 2.5rem auto 2.5rem auto;
+    max-width: 1126px;
+    height: 60vh;
+    padding: 10px;
+}
+
+.results-container {
+    margin: 2.5rem auto 2.5rem auto;
+    max-width: 1126px;
+    min-height: 20vh;
+    padding: 10px;
+}
